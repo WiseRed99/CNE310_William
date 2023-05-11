@@ -20,8 +20,4 @@ python README(1).md.py
 ```
 
 ## Thanks
-<<<<<<< HEAD
 Thank yous to Dr. Zak for providing the demos needed to do this homework, for GitHub on how to provide an excellent writing README.md files so effectively, and for the PyCharm app to be able to run this code.
-=======
-Thank you to Dr. Zak for providing the demos needed to do this homework, and for the PyCharm app to be able to run this code.
->>>>>>> 8260673e7ba4de3c849b4e1e1adf3070a04c3b9f

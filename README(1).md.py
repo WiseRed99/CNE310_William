@@ -9,6 +9,7 @@ These instructions will run this code on your local machine for experimenting in
 ### Prerequisites
 
 the Python code requires a PyCharm to run. The commands below will download a Python app.
+
 PyCharm: https://www.jetbrains.com/help/pycharm/installation-guide.html#toolbox
 
 ## Running

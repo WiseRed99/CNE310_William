@@ -10,9 +10,13 @@ These instructions will run this code on your local machine for experimenting in
 
 the Python code requires a PyCharm to run. The commands below will download a Python app.
 
-PyCharm: https://www.jetbrains.com/help/pycharm/installation-guide.html#toolbox
+PyCharm: https://www.jetbrains.com/pycharm/download/#section=windows
 
 ## Running
+```
+click on the download button under the community one, and follow the instructionson. 
+```
+
 Once installed you can run the program with the following command
 
 ```
